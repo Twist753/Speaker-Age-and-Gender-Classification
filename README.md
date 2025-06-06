@@ -24,4 +24,12 @@ Instructions:
 3) Record an audio of max 5s and press STOP. Then press SUBMIT to submit the audio. The result can be seen on right-side pane.
 NOTE - You might need to press SUBMIT a few times to get the result. ;)
 
-![image](https://github.com/user-attachments/assets/67fa0004-02e3-48f7-ab09-6a51c726f8a4)
+Evaluation (validation accuracy):
+Gender Model - 0.98
+Age Model - 0.95
+
+![image](https://github.com/user-attachments/assets/866d9add-6cfc-491b-9d58-905e55066ec0)   ![image](https://github.com/user-attachments/assets/36e64370-a796-49ae-8ff5-b4aeb5de7400)
+
+Gradio GUI:
+![image](https://github.com/user-attachments/assets/44b1b472-c39e-43b7-8451-feb42006d0ca)
+
