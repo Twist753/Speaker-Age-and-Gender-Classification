@@ -25,7 +25,9 @@ Instructions:
 NOTE - You might need to press SUBMIT a few times to get the result. ;)
 
 Evaluation (validation accuracy):
+
 Gender Model - 0.98
+
 Age Model - 0.95
 
 ![image](https://github.com/user-attachments/assets/866d9add-6cfc-491b-9d58-905e55066ec0)   ![image](https://github.com/user-attachments/assets/36e64370-a796-49ae-8ff5-b4aeb5de7400)
