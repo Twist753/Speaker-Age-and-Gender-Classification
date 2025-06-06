@@ -23,3 +23,5 @@ Instructions:
 2) Press RECORD on left side, it might ask for mic permissions so provide it.
 3) Record an audio of max 5s and press STOP. Then press SUBMIT to submit the audio. The result can be seen on right-side pane.
 NOTE - You might need to press SUBMIT a few times to get the result. ;)
+
+![image](https://github.com/user-attachments/assets/67fa0004-02e3-48f7-ab09-6a51c726f8a4)
